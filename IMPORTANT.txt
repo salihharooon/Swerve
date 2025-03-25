@@ -1,2 +1,0 @@
-Upload files from the 'html' folder to a web server or local server in order to work properly.
-Page transitions and mail sending work only on a server or localhost.
